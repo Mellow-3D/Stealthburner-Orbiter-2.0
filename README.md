@@ -1,4 +1,6 @@
 # Stealthburner-Orbiter-2.0  
+
+<img src="https://github.com/Mellow-3D/Stealthburner-Orbiter-2.0/blob/main/Thumbnail_SBO.png" width=250>  
   
 AliExpress  
 https://s.click.aliexpress.com/e/_DCvQ4Yt  
@@ -10,6 +12,9 @@ This will not hurt your wallet and at the same time help us to maintain the GitH
 
 Note:
 cable_door_orbiter2.0.stl has build in support.  
+
+Changes: Added build-in support removed version (2023/06/30)  
+  
 -------------------------------------------------  
 Huge thanks to VORON Design team & Orbiter project team  
 https://vorondesign.com/voron_stealthburner  
