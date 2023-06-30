@@ -1,6 +1,4 @@
 # Stealthburner-Orbiter-2.0  
-<img src="https://github.com/Mellow-3D/Stealthburner-Orbiter-2.0/assets/41975091/e97ab168-39f4-4116-948b-2dbccc5f37cb" width="250">  
-
   
 AliExpress  
 https://s.click.aliexpress.com/e/_DCvQ4Yt  
