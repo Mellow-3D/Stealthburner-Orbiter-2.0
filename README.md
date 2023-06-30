@@ -3,6 +3,7 @@
 <img src="https://github.com/Mellow-3D/Stealthburner-Orbiter-2.0/blob/main/Thumbnail_SBO.png" width=250>  
   
 AliExpress  
+VORON2.4 Orbiter 2.0 Bracket for Stealthburner  
 https://s.click.aliexpress.com/e/_DCvQ4Yt  
 ----------
 
